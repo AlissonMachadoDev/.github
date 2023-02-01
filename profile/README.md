@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to my personal organization, here you can find my personal projects where I put my knowledges in practice.<br/>
+
+Why an organization? Just to integrate with some tools, like Jira, that needs an organization to be integrated.<br/>
+
 <!--
 
 **Here are some ideas to get you started:**
